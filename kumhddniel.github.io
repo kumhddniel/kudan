@@ -198,8 +198,6 @@ content img {
     <rightmenu>
         <ul>
             <h2 style="text-align: center;">PROFILE</h2>
-            <li><a href="#tengku">Tengku</a></li>
-            <li><a href="#izzuddin">Izzuddin</a></li>
             <li><a href="#kudan">Kudan</a></li>
         </ul>
     </rightmenu>
@@ -222,24 +220,6 @@ content img {
             <h5 id="NDE" style="text-align: center; font-size: 50px; font-weight: bold; font-family: Georgia;">Our Biodata</h5>
         </div>
         <br><br>
-        <div style="position: relative; display: flex; align-items: center;">
-            <img id="tengku" src="tengku.jpeg" alt="Content Image" class="fixed-size-image2">
-            <p style="text-decoration: dotted; font-family:Tahoma ; font-size:large; font-weight: 600;">My name is Tengku Muhammad Aiman Aliff. Currently in my second year in UTM. as cybersecurity student. My ambition is to be a network administrator in a big company and help others to secure their devices from the malware.
-                However, some of my achievements is not related to my current studies. So, i am commited to join more program that will make me more involved in digital world thus will let me help my communities.
-            </p>
-        </div>
-        <br>
-        <div><p style="text-align: center; font-weight: bold;"> Phone Number : +6012-348 5588 <br> Email : tengku03@graduate.utm.my <br> LinkedIn : Tengku Muhammad Aiman Aliff</p></div>
-        <br>
-        <div style="position: relative; display: flex; align-items: center;">
-            <p style="text-decoration: dotted; font-family:Tahoma ; font-size:large; font-weight: 600;">My name is Muhammad Izzuddin Bin Ahmad Fauzi. Currently in my second year in UTM. as cybersecurity student. My ambition is to open up my own cybersecuirity company one day and try to make my parents proud.My hobby is 
-                carspotting and also playing basketball. I hope my dream may come through one day with hard work and dedication.
-            </p>
-            <img id="izzuddin" src="izzuddin.jpeg" alt="Content Image" class="fixed-size-image2">
-        </div>
-        <br>
-        <div><p style="text-align: center; font-weight: bold;"> Phone Number : +6012-632 5150 <br> Email : izzuddin03@graduate.utm.my <br> LinkedIn : izzuddin0911</p></div>
-        <br>
         <div style="position: relative; display: flex; align-items: center;">
             <img id="kudan" src="kudan.jpeg" alt="Content Image" class="fixed-size-image2">
             <p style="text-decoration: dotted; font-family:Tahoma ; font-size:large; font-weight: 600;">My name is Ku Muhammad Daniel Bin Ku Sahrul Affandi, currently in my second year pursuing a cybersecurity degree at UTM. My greatest aspiration is to become a cybersecurity expert, commonly referred to as a white hat hacker, 
